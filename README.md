@@ -33,4 +33,4 @@ You can use the template from this repository for configure([template instructio
 [vcpkg doc]:https://vcpkg.io/en/getting-started
 [P7 logger client]:http://baical.net/p7.html
 [P7 server]:http://baical.net/downloads.html
-[cmake/libp7client.cmake]:https://
+[cmake/libp7client.cmake]:https://github.com/Reifat/vcpkg_libp7client/blob/main/cmake/libp7client.cmake
