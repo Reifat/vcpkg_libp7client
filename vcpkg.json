@@ -1,0 +1,9 @@
+{
+  "name": "demo",
+  "version-semver": "0.9.1",
+  "dependencies": [
+    {
+      "name": "libp7client"
+    }
+  ]
+}
